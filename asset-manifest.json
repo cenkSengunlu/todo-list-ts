@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cenkSengunlu/todo-list-ts/static/css/main.63ce74b1.css",
+    "main.js": "/cenkSengunlu/todo-list-ts/static/js/main.8f9d9f47.js",
+    "index.html": "/cenkSengunlu/todo-list-ts/index.html",
+    "main.63ce74b1.css.map": "/cenkSengunlu/todo-list-ts/static/css/main.63ce74b1.css.map",
+    "main.8f9d9f47.js.map": "/cenkSengunlu/todo-list-ts/static/js/main.8f9d9f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ce74b1.css",
+    "static/js/main.8f9d9f47.js"
+  ]
+}
